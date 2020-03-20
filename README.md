@@ -7,6 +7,8 @@ collection of ideas to fight corona
 
 ## Masks / shields
 * https://blog.prusaprinters.org/from-design-to-mass-3d-printing-of-medical-shields-in-three-days/
+* Valve for Masks https://twitter.com/foosel/status/1239959577803841538
+
 
 ## desinfection stuff
 
