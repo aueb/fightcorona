@@ -11,7 +11,7 @@ collection of ideas to fight corona
 * https://www.offene-werkstaetten.org/post/covid-19-das-koennen-offene-werkstaetten-tun
 
 ## Desinfection (ideas to desinfect areas and tools)
-*** all these ideas has to be checked, it is just an collection and needs to be doublechecked
+*** all these ideas needs to be checked, it is just an collection and needs to be doublechecked
 ## some studies
 * Survival of influenza virus on banknotes.
  * https://www.ncbi.nlm.nih.gov/pubmed/18359825?dopt=Abstract
@@ -25,4 +25,4 @@ collection of ideas to fight corona
 ### uv-light
 
 ### chemical stuff
-
+* WHO Receipt https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf
