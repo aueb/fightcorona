@@ -11,10 +11,15 @@ collection of ideas to fight corona
 * https://www.offene-werkstaetten.org/post/covid-19-das-koennen-offene-werkstaetten-tun
 
 ## Desinfection (ideas to desinfect areas and tools)
-***! all these ideas has to be checked, it is just an collection and needs to be doublechecked
-
+*** all these ideas has to be checked, it is just an collection and needs to be doublechecked
+## some studies
+* Survival of influenza virus on banknotes.
+ * https://www.ncbi.nlm.nih.gov/pubmed/18359825?dopt=Abstract
+ * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2394922/
 ### heat
-
+* for influenza (https://de.wikipedia.org/wiki/Influenza#%C3%9Cbertragung)
+ * Temp >60°C <30 min
+ * Temp >70°C < wenige Sekunden
 ### ozone
 * https://www.thailandmedical.news/news/ozone-can-be-used-to-destroy-the-new-coronavirus-and-disinfect-areas
 ### uv-light
