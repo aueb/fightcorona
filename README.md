@@ -10,6 +10,10 @@ collection of ideas to fight corona
 * Valve for Masks https://twitter.com/foosel/status/1239959577803841538
 * https://www.offene-werkstaetten.org/post/covid-19-das-koennen-offene-werkstaetten-tun
 
+## Ventilator Valves
+* 3D Printing Ventilator Valves for Coronavirus AND How YOU Can Help!
+  * https://www.youtube.com/watch?v=1v5A9f2WwZc&amp=&feature=youtu.be
+
 ## Desinfection (ideas to desinfect areas and tools)
 *** all these ideas needs to be checked, it is just an collection and needs to be doublechecked
 ## some studies
