@@ -10,6 +10,14 @@ collection of ideas to fight corona
 * Valve for Masks https://twitter.com/foosel/status/1239959577803841538
 * https://www.offene-werkstaetten.org/post/covid-19-das-koennen-offene-werkstaetten-tun
 
+## Desinfection (ideas to desinfect areas and tools)
+***! all these ideas has to be checked, it is just an collection and needs to be doublechecked
 
-## desinfection stuff
+### heat
+
+### ozone
+* https://www.thailandmedical.news/news/ozone-can-be-used-to-destroy-the-new-coronavirus-and-disinfect-areas
+### uv-light
+
+### chemical stuff
 
