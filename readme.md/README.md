@@ -1,4 +1,4 @@
-# Initial page
+# index
 
 ### fightcorona
 
@@ -15,11 +15,13 @@ collection of ideas to fight corona
 * Valve for Masks [https://twitter.com/foosel/status/1239959577803841538](https://twitter.com/foosel/status/1239959577803841538)
 * [https://www.offene-werkstaetten.org/post/covid-19-das-koennen-offene-werkstaetten-tun](https://www.offene-werkstaetten.org/post/covid-19-das-koennen-offene-werkstaetten-tun)
 
-{% page-ref page="readme.md/medizinische-geraete/" %}
+{% page-ref page="desinfektion.md" %}
 
-{% page-ref page="readme.md/schutzausruestung/" %}
+{% page-ref page="schutzausruestung/" %}
 
-{% page-ref page="readme.md/desinfektion.md" %}
+{% page-ref page="medizinische-geraete/" %}
 
 
+
+### 
 
