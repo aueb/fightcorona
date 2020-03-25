@@ -7,7 +7,7 @@
     * [parametermonitoring](readme.md/medizinische-geraete/parametermonitoring.md)
     * [Beatmungsgeräte](readme.md/medizinische-geraete/beatmungsgeraete.md)
   * [Schutzausrüstung](readme.md/schutzausruestung/README.md)
-    * [3D-printed protective visor](readme.md/schutzausruestung/3d-printed-protective-visor.md)
+    * [3D-printed protective visor by Eric Cederberg](readme.md/schutzausruestung/3d-printed-protective-visor.md)
     * [Thiniverse stackable design](readme.md/schutzausruestung/thiniverse-stackable-design.md)
     * [Protective Visor by 3DVerkstanTwitter FDM](readme.md/schutzausruestung/protective-visor-by-3dverkstantwitter-fdm.md)
     * [Dani Epstein](readme.md/schutzausruestung/dani-epstein.md)
