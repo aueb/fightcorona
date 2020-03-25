@@ -44,6 +44,10 @@
 
 ### Opensource Beatmungsgerät MIT
 
+* [https://www.technologyreview.com/s/615380/we-need-more-ventilators-heres-what-it-will-take-to-get-them/](https://www.technologyreview.com/s/615380/we-need-more-ventilators-heres-what-it-will-take-to-get-them/)
+
+![](../../.gitbook/assets/onebreath-rendering-2020.jpg)
+
 ### A Single Ventilator for Multiple Simulated Patients to Meet Disaster Surge
 
 * [https://onlinelibrary.wiley.com/doi/epdf/10.1197/j.aem.2006.05.009](https://onlinelibrary.wiley.com/doi/epdf/10.1197/j.aem.2006.05.009)
