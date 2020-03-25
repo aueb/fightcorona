@@ -48,6 +48,12 @@
 
 ![](../../.gitbook/assets/onebreath-rendering-2020.jpg)
 
+### e-vent MIT
+
+* [https://e-vent.mit.edu/](https://e-vent.mit.edu/)
+
+![](../../.gitbook/assets/mit_e_vent_mannequin_controllerboard_3_16_20i4193w-1024x717.jpg)
+
 ### A Single Ventilator for Multiple Simulated Patients to Meet Disaster Surge
 
 * [https://onlinelibrary.wiley.com/doi/epdf/10.1197/j.aem.2006.05.009](https://onlinelibrary.wiley.com/doi/epdf/10.1197/j.aem.2006.05.009)
