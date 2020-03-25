@@ -2,6 +2,14 @@
 
 
 
+* FreeCAD 0.19 - Tutorial - STL-Daten für 3D-Druck in FreeCAD importieren und bearbeiten \(Deutsch\)
+* [https://www.youtube.com/watch?v=6PrzEA7Iy9E](https://www.youtube.com/watch?v=6PrzEA7Iy9E)
+* [https://wiki.freecadweb.org/Import\_from\_STL\_or\_OBJ](https://wiki.freecadweb.org/Import_from_STL_or_OBJ)
+* STL reine Polygon geometrie
+  * [https://de.wikipedia.org/wiki/STL-Schnittstelle](https://de.wikipedia.org/wiki/STL-Schnittstelle)
+* Verweis auf Macro welches STL in Solids umwandelt \(0.16\)
+  * FreeCAD 0.16 STL-Import Macro installieren
+
 ## Prusa Faceshield
 
 * [https://blog.prusaprinters.org/from-design-to-mass-3d-printing-of-medical-shields-in-three-days/](https://blog.prusaprinters.org/from-design-to-mass-3d-printing-of-medical-shields-in-three-days/)
