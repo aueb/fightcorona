@@ -18,6 +18,8 @@
 
 {% page-ref page="3d-printed-protective-visor.md" %}
 
+{% page-ref page="easy-3d-printed-face-shield.md" %}
+
 
 
 ### Mundschutz
