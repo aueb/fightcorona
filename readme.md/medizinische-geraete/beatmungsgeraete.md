@@ -60,6 +60,11 @@
 * COVID-19 How to Use One Ventilator to Save Multiple Lives
   * [https://www.youtube.com/watch?v=uClq978oohY&feature=youtu.be](https://www.youtube.com/watch?v=uClq978oohY&feature=youtu.be)
 
+### [CORESPONSE - COvid19 RESPirator OpeN SourcE](https://coresponse.github.io/blog/)
+
+* Overview of Designs 
+  * [https://coresponse.github.io/blog/concept/2020/03/24/Overview\_of-Designs.html](https://coresponse.github.io/blog/concept/2020/03/24/Overview_of-Designs.html)
+
 ### Dräger Beatmungsgeräte
 
 * [https://www.draeger.com/de\_de/Hospital/covid-19](https://www.draeger.com/de_de/Hospital/covid-19)
