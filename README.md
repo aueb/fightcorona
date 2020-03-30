@@ -40,9 +40,9 @@ collection of ideas to fight corona
 
 {% page-ref page="readme.md/medizinische-geraete/" %}
 
-{% page-ref page="readme.md/schutzausruestung/" %}
-
 {% page-ref page="readme.md/desinfektion.md" %}
+
+{% page-ref page="readme.md/schutzausruestung/" %}
 
 
 
