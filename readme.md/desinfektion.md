@@ -4,10 +4,6 @@
 
 _\*_ all these ideas has to be checked, it is just an collection and needs to be doublechecked
 
-### WIP
-
-* [https://help.prusa3d.com/en/article/prusa-face-shield-disinfection\_125457/](https://help.prusa3d.com/en/article/prusa-face-shield-disinfection_125457/)
-
 ### some studies
 
 * Survival of influenza virus on banknotes.

@@ -34,10 +34,6 @@ collection of ideas to fight corona
 * [https://19.re-publica.com/en/session/vitalparameter-monitoring-selbstgebaut-vom-sensor-bis-zur-anzeige-auf-dem-smartphone](https://19.re-publica.com/en/session/vitalparameter-monitoring-selbstgebaut-vom-sensor-bis-zur-anzeige-auf-dem-smartphone)
 * [https://maker-faire.de/maker/remo%c2%b2hbo-robustes-und-reparierbares-vitalparametermonitoring-im-mobilen-krankenhaus/](https://maker-faire.de/maker/remo%c2%b2hbo-robustes-und-reparierbares-vitalparametermonitoring-im-mobilen-krankenhaus/)
 
-### 
-
-### 
-
 {% page-ref page="readme.md/medizinische-geraete/" %}
 
 {% page-ref page="readme.md/desinfektion.md" %}
