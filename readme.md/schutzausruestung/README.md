@@ -24,6 +24,9 @@
 
 ### Mundschutz
 
+* [https://www.tagesspiegel.de/berlin/mundschutz-selber-machen-ohne-naehen-eine-anleitung-zum-basteln-einer-atemschutzmaske/25692528.html?utm\_source=pocket-newtab](https://www.tagesspiegel.de/berlin/mundschutz-selber-machen-ohne-naehen-eine-anleitung-zum-basteln-einer-atemschutzmaske/25692528.html?utm_source=pocket-newtab)
+* [https://www.scmp.com/news/hong-kong/health-environment/article/3050689/how-make-your-own-mask-hong-kong-scientists](https://www.scmp.com/news/hong-kong/health-environment/article/3050689/how-make-your-own-mask-hong-kong-scientists)
+
 {% page-ref page="openmask.md" %}
 
 
