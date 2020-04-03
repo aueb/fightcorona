@@ -65,6 +65,12 @@
 * Overview of Designs 
   * [https://coresponse.github.io/blog/concept/2020/03/24/Overview\_of-Designs.html](https://coresponse.github.io/blog/concept/2020/03/24/Overview_of-Designs.html)
 
+### Freebreathing.org
+
+* [https://freebreathing.org/public-authorities/](https://freebreathing.org/public-authorities/)
+
+![](../../.gitbook/assets/grafik%20%281%29.png)
+
 ### Dräger Beatmungsgeräte
 
 * [https://www.draeger.com/de\_de/Hospital/covid-19](https://www.draeger.com/de_de/Hospital/covid-19)

@@ -25,11 +25,12 @@
   * [https://twitter.com/erikcederb/status/1240960467834634240](https://twitter.com/erikcederb/status/1240960467834634240)
   * [https://en.wikipedia.org/wiki/Hole\_punch\#Sweden](https://en.wikipedia.org/wiki/Hole_punch#Sweden) \(Anordnung der Löcher wie beim 4 fach Locher\)
 
-### Budmen
+### 
 
-* [https://budmen.com/](https://budmen.com/)
+### RC3 Parametric
 
-![](../../.gitbook/assets/b14c851d50a84e63ad0438a58fb41f69.png)
+* [https://www.prusaprinters.org/prints/27738-prusa-protective-face-shield-rc3-parametricedition/files](https://www.prusaprinters.org/prints/27738-prusa-protective-face-shield-rc3-parametricedition/files)
+* Desinfection [https://help.prusa3d.com/en/article/prusa-face-shield-disinfection\_125457/](https://help.prusa3d.com/en/article/prusa-face-shield-disinfection_125457/)
 
 ### aus dem Slack Channel
 
